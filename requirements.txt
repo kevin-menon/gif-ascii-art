@@ -1,0 +1,7 @@
+ascii-magic
+Pillow
+colorama
+art
+pytest
+python-dotenv
+requests
